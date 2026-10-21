@@ -11,18 +11,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Mplus0
           outputs: |
-            dist/github-snake.svg?color_snake=#6A8F80&color_dots=#F8FBFA,#D8EEE5,#B8E6D2,#8ACBB0,#5DA58B
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#B8E6D2
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish snake SVGs
-        uses: crazy-max/ghaction-github-pages@v5
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
