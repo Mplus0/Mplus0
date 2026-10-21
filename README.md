@@ -30,10 +30,14 @@
 
 ---
 
-## 📊 Top Languages
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mplus0&layout=compact&langs_count=6" alt="Top Languages" width="520" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mplus0/Mplus0/main/readme/resources/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mplus0/Mplus0/main/readme/resources/languages.svg" />
+    <img src="https://raw.githubusercontent.com/Mplus0/Mplus0/main/readme/resources/languages.svg" alt="Most Used Languages" width="700" />
+  </picture>
 </p>
 
 ---
