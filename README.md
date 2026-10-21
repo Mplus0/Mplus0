@@ -1,3 +1,13 @@
+<h1 align="center">Hi, I'm Mplus0 👋</h1>
+
+<p align="center">
+  <strong>Electronic Information Engineering Student @ Shenzhen University</strong><br />
+  Robotics · Computer Vision · Embodied AI<br />
+  Exploring intelligent robotic systems, visual perception, and Vision-Language-Action models.
+</p>
+
+---
+
 ## 🙋🏻‍♂️ About Me
 
 - 🎓 Undergraduate student in Electronic Information Engineering at Shenzhen University.
@@ -14,12 +24,16 @@
   <img src="https://skillicons.dev/icons?i=py,c,cpp,pytorch,opencv,ros,linux,ubuntu,docker,git,github,bash,cmake,vscode,anaconda,raspberrypi&theme=light&perline=16" alt="Tech Stack" />
 </p>
 
+- **AI & Multimodal Learning:** PyTorch · Transformer · NumPy · ONNX · TensorRT
+- **Robotics & 3D Vision:** ROS · AMCL · RGB-D · 3D Localization
+- **Programming & Engineering:** Python · C/C++ · Linux · Docker · Git
+
 ---
 
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mplus0&layout=compact&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mplus0&layout=compact&langs_count=6" alt="Top Languages" width="520" />
 </p>
 
 ---
