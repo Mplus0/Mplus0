@@ -9,7 +9,7 @@
     <g transform="translate(28 76)">
       <clipPath id="language-bar-clip"><rect width="464" height="14" rx="7"/></clipPath>
       <rect width="464" height="14" rx="7" fill="#21262d"/>
-      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="193.53" height="14" fill="#f34b7d" stroke="#0d1117" stroke-width="1"/><rect x="193.53" y="0" width="138.99" height="14" fill="#3572A5" stroke="#0d1117" stroke-width="1"/><rect x="332.52" y="0" width="76.13" height="14" fill="#e34c26" stroke="#0d1117" stroke-width="1"/><rect x="408.65" y="0" width="26.61" height="14" fill="#555555" stroke="#0d1117" stroke-width="1"/><rect x="435.26" y="0" width="11.81" height="14" fill="#3D6117" stroke="#0d1117" stroke-width="1"/><rect x="447.07" y="0" width="10.30" height="14" fill="#DA3434" stroke="#0d1117" stroke-width="1"/></g>
+      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="193.54" height="14" fill="#f34b7d" stroke="#0d1117" stroke-width="1"/><rect x="193.54" y="0" width="139.00" height="14" fill="#3572A5" stroke="#0d1117" stroke-width="1"/><rect x="332.54" y="0" width="76.13" height="14" fill="#e34c26" stroke="#0d1117" stroke-width="1"/><rect x="408.67" y="0" width="26.61" height="14" fill="#555555" stroke="#0d1117" stroke-width="1"/><rect x="435.28" y="0" width="11.81" height="14" fill="#3D6117" stroke="#0d1117" stroke-width="1"/><rect x="447.10" y="0" width="10.27" height="14" fill="#DA3434" stroke="#0d1117" stroke-width="1"/></g>
     </g>
     
     <circle cx="34" cy="113" r="5.5" fill="#f34b7d"/>
