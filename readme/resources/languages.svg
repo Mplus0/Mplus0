@@ -9,34 +9,34 @@
     <g transform="translate(28 76)">
       <clipPath id="language-bar-clip"><rect width="464" height="14" rx="7"/></clipPath>
       <rect width="464" height="14" rx="7" fill="#eaeef2"/>
-      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="189.39" height="14" fill="#f34b7d" stroke="#ffffff" stroke-width="1"/><rect x="189.39" y="0" width="147.21" height="14" fill="#3572A5" stroke="#ffffff" stroke-width="1"/><rect x="336.61" y="0" width="73.68" height="14" fill="#e34c26" stroke="#ffffff" stroke-width="1"/><rect x="410.28" y="0" width="25.58" height="14" fill="#555555" stroke="#ffffff" stroke-width="1"/><rect x="435.86" y="0" width="11.35" height="14" fill="#3D6117" stroke="#ffffff" stroke-width="1"/><rect x="447.21" y="0" width="10.17" height="14" fill="#DA3434" stroke="#ffffff" stroke-width="1"/></g>
+      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="188.50" height="14" fill="#f34b7d" stroke="#ffffff" stroke-width="1"/><rect x="188.50" y="0" width="148.61" height="14" fill="#3572A5" stroke="#ffffff" stroke-width="1"/><rect x="337.11" y="0" width="73.33" height="14" fill="#e34c26" stroke="#ffffff" stroke-width="1"/><rect x="410.44" y="0" width="25.46" height="14" fill="#555555" stroke="#ffffff" stroke-width="1"/><rect x="435.90" y="0" width="11.30" height="14" fill="#3D6117" stroke="#ffffff" stroke-width="1"/><rect x="447.20" y="0" width="10.22" height="14" fill="#DA3434" stroke="#ffffff" stroke-width="1"/></g>
     </g>
     
     <circle cx="34" cy="113" r="5.5" fill="#f34b7d"/>
     <text x="48" y="118" fill="#57606a" font-size="14" font-weight="600">C++</text>
-    <text x="492" y="118" fill="#6e7781" font-size="13" text-anchor="end">40.8%</text>
+    <text x="492" y="118" fill="#6e7781" font-size="13" text-anchor="end">40.6%</text>
     <rect x="28" y="131" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="131" width="189.4" height="12" rx="6" fill="#f34b7d"/>
+    <rect x="28" y="131" width="188.5" height="12" rx="6" fill="#f34b7d"/>
     <circle cx="34" cy="161" r="5.5" fill="#3572A5"/>
     <text x="48" y="166" fill="#57606a" font-size="14" font-weight="600">Python</text>
-    <text x="492" y="166" fill="#6e7781" font-size="13" text-anchor="end">31.7%</text>
+    <text x="492" y="166" fill="#6e7781" font-size="13" text-anchor="end">32.0%</text>
     <rect x="28" y="179" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="179" width="147.2" height="12" rx="6" fill="#3572A5"/>
+    <rect x="28" y="179" width="148.6" height="12" rx="6" fill="#3572A5"/>
     <circle cx="34" cy="209" r="5.5" fill="#e34c26"/>
     <text x="48" y="214" fill="#57606a" font-size="14" font-weight="600">HTML</text>
-    <text x="492" y="214" fill="#6e7781" font-size="13" text-anchor="end">15.9%</text>
+    <text x="492" y="214" fill="#6e7781" font-size="13" text-anchor="end">15.8%</text>
     <rect x="28" y="227" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="227" width="73.7" height="12" rx="6" fill="#e34c26"/>
+    <rect x="28" y="227" width="73.3" height="12" rx="6" fill="#e34c26"/>
     <circle cx="34" cy="257" r="5.5" fill="#555555"/>
     <text x="48" y="262" fill="#57606a" font-size="14" font-weight="600">C</text>
     <text x="492" y="262" fill="#6e7781" font-size="13" text-anchor="end">5.5%</text>
     <rect x="28" y="275" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="275" width="25.6" height="12" rx="6" fill="#555555"/>
+    <rect x="28" y="275" width="25.5" height="12" rx="6" fill="#555555"/>
     <circle cx="34" cy="305" r="5.5" fill="#3D6117"/>
     <text x="48" y="310" fill="#57606a" font-size="14" font-weight="600">TeX</text>
     <text x="492" y="310" fill="#6e7781" font-size="13" text-anchor="end">2.4%</text>
     <rect x="28" y="323" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="323" width="11.4" height="12" rx="6" fill="#3D6117"/>
+    <rect x="28" y="323" width="11.3" height="12" rx="6" fill="#3D6117"/>
     <circle cx="34" cy="353" r="5.5" fill="#DA3434"/>
     <text x="48" y="358" fill="#57606a" font-size="14" font-weight="600">CMake</text>
     <text x="492" y="358" fill="#6e7781" font-size="13" text-anchor="end">2.2%</text>
