@@ -9,29 +9,29 @@
     <g transform="translate(28 76)">
       <clipPath id="language-bar-clip"><rect width="464" height="14" rx="7"/></clipPath>
       <rect width="464" height="14" rx="7" fill="#eaeef2"/>
-      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="187.16" height="14" fill="#f34b7d" stroke="#ffffff" stroke-width="1"/><rect x="187.16" y="0" width="150.82" height="14" fill="#3572A5" stroke="#ffffff" stroke-width="1"/><rect x="337.98" y="0" width="72.81" height="14" fill="#e34c26" stroke="#ffffff" stroke-width="1"/><rect x="410.78" y="0" width="25.27" height="14" fill="#555555" stroke="#ffffff" stroke-width="1"/><rect x="436.06" y="0" width="11.22" height="14" fill="#3D6117" stroke="#ffffff" stroke-width="1"/><rect x="447.28" y="0" width="10.15" height="14" fill="#DA3434" stroke="#ffffff" stroke-width="1"/></g>
+      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="186.91" height="14" fill="#f34b7d" stroke="#ffffff" stroke-width="1"/><rect x="186.91" y="0" width="151.03" height="14" fill="#3572A5" stroke="#ffffff" stroke-width="1"/><rect x="337.94" y="0" width="72.70" height="14" fill="#e34c26" stroke="#ffffff" stroke-width="1"/><rect x="410.64" y="0" width="25.24" height="14" fill="#555555" stroke="#ffffff" stroke-width="1"/><rect x="435.87" y="0" width="11.20" height="14" fill="#3D6117" stroke="#ffffff" stroke-width="1"/><rect x="447.08" y="0" width="10.24" height="14" fill="#DA3434" stroke="#ffffff" stroke-width="1"/></g>
     </g>
     
     <circle cx="34" cy="113" r="5.5" fill="#f34b7d"/>
     <text x="48" y="118" fill="#57606a" font-size="14" font-weight="600">C++</text>
     <text x="492" y="118" fill="#6e7781" font-size="13" text-anchor="end">40.3%</text>
     <rect x="28" y="131" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="131" width="187.2" height="12" rx="6" fill="#f34b7d"/>
+    <rect x="28" y="131" width="186.9" height="12" rx="6" fill="#f34b7d"/>
     <circle cx="34" cy="161" r="5.5" fill="#3572A5"/>
     <text x="48" y="166" fill="#57606a" font-size="14" font-weight="600">Python</text>
-    <text x="492" y="166" fill="#6e7781" font-size="13" text-anchor="end">32.5%</text>
+    <text x="492" y="166" fill="#6e7781" font-size="13" text-anchor="end">32.6%</text>
     <rect x="28" y="179" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="179" width="150.8" height="12" rx="6" fill="#3572A5"/>
+    <rect x="28" y="179" width="151.0" height="12" rx="6" fill="#3572A5"/>
     <circle cx="34" cy="209" r="5.5" fill="#e34c26"/>
     <text x="48" y="214" fill="#57606a" font-size="14" font-weight="600">HTML</text>
     <text x="492" y="214" fill="#6e7781" font-size="13" text-anchor="end">15.7%</text>
     <rect x="28" y="227" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="227" width="72.8" height="12" rx="6" fill="#e34c26"/>
+    <rect x="28" y="227" width="72.7" height="12" rx="6" fill="#e34c26"/>
     <circle cx="34" cy="257" r="5.5" fill="#555555"/>
     <text x="48" y="262" fill="#57606a" font-size="14" font-weight="600">C</text>
     <text x="492" y="262" fill="#6e7781" font-size="13" text-anchor="end">5.4%</text>
     <rect x="28" y="275" width="464" height="12" rx="6" fill="#eaeef2"/>
-    <rect x="28" y="275" width="25.3" height="12" rx="6" fill="#555555"/>
+    <rect x="28" y="275" width="25.2" height="12" rx="6" fill="#555555"/>
     <circle cx="34" cy="305" r="5.5" fill="#3D6117"/>
     <text x="48" y="310" fill="#57606a" font-size="14" font-weight="600">TeX</text>
     <text x="492" y="310" fill="#6e7781" font-size="13" text-anchor="end">2.4%</text>
