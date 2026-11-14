@@ -9,29 +9,29 @@
     <g transform="translate(28 76)">
       <clipPath id="language-bar-clip"><rect width="464" height="14" rx="7"/></clipPath>
       <rect width="464" height="14" rx="7" fill="#21262d"/>
-      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="185.58" height="14" fill="#f34b7d" stroke="#0d1117" stroke-width="1"/><rect x="185.58" y="0" width="151.49" height="14" fill="#3572A5" stroke="#0d1117" stroke-width="1"/><rect x="337.08" y="0" width="72.20" height="14" fill="#e34c26" stroke="#0d1117" stroke-width="1"/><rect x="409.28" y="0" width="25.06" height="14" fill="#555555" stroke="#0d1117" stroke-width="1"/><rect x="434.33" y="0" width="11.12" height="14" fill="#3D6117" stroke="#0d1117" stroke-width="1"/><rect x="445.46" y="0" width="10.16" height="14" fill="#DA3434" stroke="#0d1117" stroke-width="1"/></g>
+      <g clip-path="url(#language-bar-clip)"><rect x="0.00" y="0" width="184.35" height="14" fill="#f34b7d" stroke="#0d1117" stroke-width="1"/><rect x="184.35" y="0" width="153.56" height="14" fill="#3572A5" stroke="#0d1117" stroke-width="1"/><rect x="337.91" y="0" width="71.72" height="14" fill="#e34c26" stroke="#0d1117" stroke-width="1"/><rect x="409.63" y="0" width="24.89" height="14" fill="#555555" stroke="#0d1117" stroke-width="1"/><rect x="434.52" y="0" width="11.05" height="14" fill="#3D6117" stroke="#0d1117" stroke-width="1"/><rect x="445.57" y="0" width="10.10" height="14" fill="#DA3434" stroke="#0d1117" stroke-width="1"/></g>
     </g>
     
     <circle cx="34" cy="113" r="5.5" fill="#f34b7d"/>
     <text x="48" y="118" fill="#c9d1d9" font-size="14" font-weight="600">C++</text>
-    <text x="492" y="118" fill="#8b949e" font-size="13" text-anchor="end">40.0%</text>
+    <text x="492" y="118" fill="#8b949e" font-size="13" text-anchor="end">39.7%</text>
     <rect x="28" y="131" width="464" height="12" rx="6" fill="#21262d"/>
-    <rect x="28" y="131" width="185.6" height="12" rx="6" fill="#f34b7d"/>
+    <rect x="28" y="131" width="184.3" height="12" rx="6" fill="#f34b7d"/>
     <circle cx="34" cy="161" r="5.5" fill="#3572A5"/>
     <text x="48" y="166" fill="#c9d1d9" font-size="14" font-weight="600">Python</text>
-    <text x="492" y="166" fill="#8b949e" font-size="13" text-anchor="end">32.6%</text>
+    <text x="492" y="166" fill="#8b949e" font-size="13" text-anchor="end">33.1%</text>
     <rect x="28" y="179" width="464" height="12" rx="6" fill="#21262d"/>
-    <rect x="28" y="179" width="151.5" height="12" rx="6" fill="#3572A5"/>
+    <rect x="28" y="179" width="153.6" height="12" rx="6" fill="#3572A5"/>
     <circle cx="34" cy="209" r="5.5" fill="#e34c26"/>
     <text x="48" y="214" fill="#c9d1d9" font-size="14" font-weight="600">HTML</text>
-    <text x="492" y="214" fill="#8b949e" font-size="13" text-anchor="end">15.6%</text>
+    <text x="492" y="214" fill="#8b949e" font-size="13" text-anchor="end">15.5%</text>
     <rect x="28" y="227" width="464" height="12" rx="6" fill="#21262d"/>
-    <rect x="28" y="227" width="72.2" height="12" rx="6" fill="#e34c26"/>
+    <rect x="28" y="227" width="71.7" height="12" rx="6" fill="#e34c26"/>
     <circle cx="34" cy="257" r="5.5" fill="#555555"/>
     <text x="48" y="262" fill="#c9d1d9" font-size="14" font-weight="600">C</text>
     <text x="492" y="262" fill="#8b949e" font-size="13" text-anchor="end">5.4%</text>
     <rect x="28" y="275" width="464" height="12" rx="6" fill="#21262d"/>
-    <rect x="28" y="275" width="25.1" height="12" rx="6" fill="#555555"/>
+    <rect x="28" y="275" width="24.9" height="12" rx="6" fill="#555555"/>
     <circle cx="34" cy="305" r="5.5" fill="#3D6117"/>
     <text x="48" y="310" fill="#c9d1d9" font-size="14" font-weight="600">TeX</text>
     <text x="492" y="310" fill="#8b949e" font-size="13" text-anchor="end">2.4%</text>
@@ -41,7 +41,7 @@
     <text x="48" y="358" fill="#c9d1d9" font-size="14" font-weight="600">CMake</text>
     <text x="492" y="358" fill="#8b949e" font-size="13" text-anchor="end">2.2%</text>
     <rect x="28" y="371" width="464" height="12" rx="6" fill="#21262d"/>
-    <rect x="28" y="371" width="10.2" height="12" rx="6" fill="#DA3434"/>
+    <rect x="28" y="371" width="10.1" height="12" rx="6" fill="#DA3434"/>
     
   </g>
 </svg>
